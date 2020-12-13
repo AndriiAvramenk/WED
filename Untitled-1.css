@@ -236,7 +236,7 @@ ul>li:last-child{
     height: 368px;
     background-color: #ffffff;
     border-radius: 5px;
-    margin-right: 20px;
+    margin-right: 40px;
 
 }
 
@@ -328,6 +328,7 @@ footer {
 
     color: #FFFFFF;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .addres:hover {
